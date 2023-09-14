@@ -30,6 +30,6 @@ java rubik.Main
 You will be prompted at something like this:  
 ![image](https://github.com/achillelamb/rubik/assets/58937437/fb989666-1722-4232-97a8-c6db3ce71ed6)  
   
-A cheatsheet of moves you can perform on the cube is available [here](https://jperm.net/3x3/moves), and a special move you can perform on the cube is `risolvi`, that will automatically solve and print the cube. The result is this:  
+A cheatsheet of moves you can perform on the cube is available [here](https://jperm.net/3x3/moves), and a special move is `risolvi`, which will automatically solve and print the cube. The result is this:  
 ![image](https://github.com/achillelamb/rubik/assets/58937437/9c2e4b7e-195e-4730-8d98-72c201452cb0)
 
