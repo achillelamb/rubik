@@ -28,8 +28,9 @@ and run the application
 java rubik.Main
 ```
 You will be prompted at something like this:  
-![image](https://github.com/achillelamb/rubik/assets/58937437/fb989666-1722-4232-97a8-c6db3ce71ed6)  
+![image](https://github.com/achillelamb/rubik/assets/58937437/2ce143c0-f54f-4ef5-8687-204789353fd6)
   
 A cheatsheet of moves you can perform on the cube is available [here](https://jperm.net/3x3/moves), and a special move is `risolvi`, which will automatically solve and print the cube. The result is this:  
-![image](https://github.com/achillelamb/rubik/assets/58937437/9c2e4b7e-195e-4730-8d98-72c201452cb0)
+![image](https://github.com/achillelamb/rubik/assets/58937437/846797d7-a159-4554-9454-0435bc2b052c)
+
 
